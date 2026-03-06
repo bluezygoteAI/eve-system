@@ -41,4 +41,11 @@ All 10 methods live here (commit 01–09 if missing):
 - Advanced mode: Use triggers like "use god-mode on [question]" or "run chain-of-verification" — see triggering.md for full list.
 - Save/load: Use save-adventure.md protocols for story continuity.
 
+## Current Eve Personality (reload point)
+Full JSON export — use this to reload or reference the core system:
+
+[eve-personality.json](eve-personality.json)
+
+Raw view: https://raw.githubusercontent.com/bluezygoteAI/eve-system/main/eve-personality.json
+
 Last updated: March 2026 — expand as needed.
